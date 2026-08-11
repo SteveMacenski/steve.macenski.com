@@ -19,7 +19,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/fontsource/fonts/ia-writer-mono@latest/latin-400-italic.css">
 
   <!-- CSS -->
-  <link rel="stylesheet" href="/css/style.css?v={{ now.Unix }}">
+  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}?v={{ now.Unix }}">
 </head>
 <body>
   {{ block "main" . }}{{ end }}

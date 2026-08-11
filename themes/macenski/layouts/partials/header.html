@@ -1,7 +1,7 @@
 <header>
   <div class="header-section">
     <div class="img-frame">
-      <img src="/images/headshot.jpg" alt="Steve Macenski">
+      <img src="{{ "images/headshot.jpg" | relURL }}" alt="Steve Macenski">
     </div>
     <div class="header-frame">
       <h1>Steve Macenski</h1>
@@ -13,5 +13,5 @@
 
 <nav>
   {{ $current := .RelPermalink }}
-  <a href="/"{{ if eq $current "/" }} class="active"{{ end }}>home</a> {{ range .Site.Menus.main }}<a href="{{ .URL }}"{{ if eq $current .URL }} class="active"{{ end }}>{{ .Name | lower }}</a> {{ end }}
+  <a href="{{ "/" | relURL }}"{{ if eq $current "/" }} class="active"{{ end }}>home</a> {{ range .Site.Menus.main }}<a href="{{ .URL | relURL }}"{{ if eq $current .URL }} class="active"{{ end }}>{{ .Name | lower }}</a> {{ end }}
 </nav>
