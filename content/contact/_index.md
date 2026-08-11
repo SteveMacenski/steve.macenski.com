@@ -39,7 +39,7 @@ document.getElementById('contact-form').addEventListener('submit', function(e) {
   btn.textContent = 'Sending...';
 
   // Replace this URL with your Google Apps Script Web App URL
-  var SCRIPT_URL = 'YOUR_GOOGLE_APPS_SCRIPT_URL';
+  var SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzyxgm2uc3DJVYoiqjgYrhrXLiZUIrTiNMPE4XhszFfpkltxHxWhA0qmMvg4-kFPnAr-Q/exec';
 
   var data = {
     name: document.getElementById('name').value,
