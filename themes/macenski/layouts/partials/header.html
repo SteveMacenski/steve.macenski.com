@@ -1,0 +1,17 @@
+<header>
+  <div class="header-section">
+    <div class="img-frame">
+      <img src="/images/headshot.jpg" alt="Steve Macenski">
+    </div>
+    <div class="header-frame">
+      <h1>Steve Macenski</h1>
+      <h2>Principal Robotics Architect
+& Technical Director</h2>
+    </div>
+  </div>
+</header>
+
+<nav>
+  {{ $current := .RelPermalink }}
+  <a href="/"{{ if eq $current "/" }} class="active"{{ end }}>home</a> {{ range .Site.Menus.main }}<a href="{{ .URL }}"{{ if eq $current .URL }} class="active"{{ end }}>{{ .Name | lower }}</a> {{ end }}
+</nav>

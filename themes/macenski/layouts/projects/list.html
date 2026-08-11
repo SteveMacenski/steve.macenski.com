@@ -1,0 +1,108 @@
+{{ define "main" }}
+{{ partial "header.html" . }}
+<main class="wide">
+  <div class="projects-grid">
+
+    <div class="project-card">
+      <span class="corner-bl">+</span><span class="corner-br">+</span>
+      <img class="card-img" src="/images/nav2-project.webp" alt="Nav2">
+      <div class="card-content">
+      <div class="card-title">Nav2 (Navigation2)</div>
+      <div class="card-desc">ROS 2's navigation framework. Flexible behaviors, state of the art algorithms, modular architecture, and support any type of mobile robot.</div>
+      <div class="card-link"><a href="https://nav2.org/" target="_blank">nav2.org &rarr;</a></div>
+      </div>
+    </div>
+
+    <div class="project-card">
+      <span class="corner-bl">+</span><span class="corner-br">+</span>
+      <img class="card-img" src="/images/smac-planner-project.png" alt="Smac Planner">
+      <div class="card-content">
+      <div class="card-title">Smac Planner</div>
+      <div class="card-desc">Templated A*-based planning framework. 2D A*, Hybrid-A*, and State Lattice implementations for Ackermann, Legged, and Differential robots.</div>
+      <div class="card-link"><a href="https://github.com/ros-navigation/navigation2/tree/main/nav2_smac_planner" target="_blank">github &rarr;</a></div>
+      </div>
+    </div>
+
+    <div class="project-card">
+      <span class="corner-bl">+</span><span class="corner-br">+</span>
+      <img class="card-img" src="/images/slam-toolbox-project.gif" alt="SLAM Toolbox">
+      <div class="card-content">
+      <div class="card-title">SLAM Toolbox</div>
+      <div class="card-desc">2D Lidar SLAM toolbox and default vendor for ROS 2. Map editing, session continuation, synchronous and asynchronous modes.</div>
+      <div class="card-link"><a href="https://github.com/SteveMacenski/slam_toolbox" target="_blank">github &rarr;</a></div>
+      </div>
+    </div>
+
+    <div class="project-card">
+      <span class="corner-bl">+</span><span class="corner-br">+</span>
+      <img class="card-img" src="/images/mppi-project.gif" alt="MPPI Controller">
+      <div class="card-content">
+      <div class="card-title">MPPI Controller</div>
+      <div class="card-desc">Model Predictive Path Integral controller. Optimizes trajectories through random perturbations with plugin-based customizable critic functions.</div>
+      <div class="card-link"><a href="https://github.com/ros-navigation/navigation2/tree/main/nav2_mppi_controller" target="_blank">github &rarr;</a></div>
+      </div>
+    </div>
+
+    <div class="project-card">
+      <span class="corner-bl">+</span><span class="corner-br">+</span>
+      <img class="card-img" src="/images/stvl-project.gif" alt="Spatio-Temporal Voxel Layer">
+      <div class="card-content">
+      <div class="card-title">Spatio-Temporal Voxel Layer</div>
+      <div class="card-desc">3D voxel layer using OpenVDB for dynamic environments. Novel decay functions and sensor models for multi-sensor integration.</div>
+      <div class="card-link"><a href="https://github.com/SteveMacenski/spatio_temporal_voxel_layer" target="_blank">github &rarr;</a></div>
+      </div>
+    </div>
+
+    <div class="project-card">
+      <span class="corner-bl">+</span><span class="corner-br">+</span>
+      <img class="card-img" src="/images/rpp-project.png" alt="Regulated Pure Pursuit">
+      <div class="card-content">
+      <div class="card-title">Regulated Pure Pursuit</div>
+      <div class="card-desc">Path tracking controller with velocity regulation for sharp turns and collision avoidance. Processes at >1kHz.</div>
+      <div class="card-link"><a href="https://github.com/ros-navigation/navigation2/tree/main/nav2_regulated_pure_pursuit_controller" target="_blank">github &rarr;</a></div>
+      </div>
+    </div>
+
+    <div class="project-card">
+      <span class="corner-bl">+</span><span class="corner-br">+</span>
+      <img class="card-img" src="/images/docking-project.gif" alt="Opennav Docking">
+      <div class="card-content">
+      <div class="card-title">Opennav Docking</div>
+      <div class="card-desc">Autonomous charging and static infrastructure docking server for any type of robot and dock. Plugin-based framework with perception, approach, and staging behaviors.</div>
+      <div class="card-link"><a href="https://github.com/open-navigation/opennav_docking" target="_blank">github &rarr;</a></div>
+      </div>
+    </div>
+
+    <div class="project-card">
+      <span class="corner-bl">+</span><span class="corner-br">+</span>
+      <img class="card-img" src="/images/semantic-nav-project.gif" alt="Opennav Semantic Navigation">
+      <div class="card-content">
+      <div class="card-title">Opennav Semantic Navigation</div>
+      <div class="card-desc">Terrain-aware semantic navigation integrating SAM3 foundation model with Nav2. Text-prompted segmentation for obstacle detection and traversability estimation.</div>
+      <div class="card-link"><a href="https://github.com/open-navigation/opennav_amd_semantic_navigation" target="_blank">github &rarr;</a></div>
+      </div>
+    </div>
+
+    <div class="project-card">
+      <span class="corner-bl">+</span><span class="corner-br">+</span>
+      <img class="card-img" src="/images/ouster-project.jpg" alt="ROS 2 Ouster Drivers">
+      <div class="card-content">
+      <div class="card-title">ROS 2 Ouster Drivers</div>
+      <div class="card-desc">Drivers for Ouster lidar series (OS-0, OS-1, OS-2). 3D pointclouds, IMU, 2D laser scans. Donated to ros-drivers.</div>
+      <div class="card-link"><a href="https://github.com/ros-drivers/ros2_ouster_drivers" target="_blank">github &rarr;</a></div>
+      </div>
+    </div>
+
+    <div class="project-card">
+      <span class="corner-bl">+</span><span class="corner-br">+</span>
+      <img class="card-img" src="/images/standard-interfaces-project.png" alt="Standard Interfaces">
+      <div class="card-content">
+      <div class="card-title">Standard Interfaces</div>
+      <div class="card-desc">Official standard interfaces for radar sensors (radar_msgs) and AI applications (vision_msgs). Donated to ros-perception.</div>
+      <div class="card-link"><a href="https://github.com/ros-perception" target="_blank">github &rarr;</a></div>
+      </div>
+    </div>
+
+  </div>
+</main>
+{{ end }}

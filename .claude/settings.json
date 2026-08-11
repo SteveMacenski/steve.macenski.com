@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.steve.macenski.com)",
+      "WebFetch(domain:jekyllthemes.io)",
+    ]
+  }
+}

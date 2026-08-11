@@ -1,0 +1,44 @@
+baseURL = 'https://www.steve.macenski.com/'
+languageCode = 'en-us'
+title = 'Steve Macenski'
+theme = 'macenski'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  description = 'Principal Robotics Architect & Navigator. Creator of Nav2, SLAM Toolbox, and the ROS 2 navigation ecosystem.'
+  author = 'Steve Macenski'
+  email = 'stevenmacenski@gmail.com'
+  github = 'https://github.com/SteveMacenski'
+  linkedin = 'https://www.linkedin.com/in/steve-macenski-41a985101/'
+  youtube = 'https://www.youtube.com/channel/UC7b1d0UPj4rQghUsh_rI1sA/videos'
+  scholar = 'https://scholar.google.com/citations?user=MGZmVmwAAAAJ&hl=en'
+
+[menu]
+  [[menu.main]]
+    name = 'Projects'
+    url = '/projects/'
+    weight = 1
+  [[menu.main]]
+    name = 'Publications'
+    url = '/publications/'
+    weight = 2
+  [[menu.main]]
+    name = 'Recognitions'
+    url = '/awards/'
+    weight = 3
+  [[menu.main]]
+    name = 'Robots'
+    url = '/robots-collage/'
+    weight = 4
+  [[menu.main]]
+    name = 'About'
+    url = '/about/'
+    weight = 5
+  [[menu.main]]
+    name = 'Contact'
+    url = '/contact/'
+    weight = 6
