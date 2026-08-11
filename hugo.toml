@@ -1,4 +1,4 @@
-baseURL = 'https://www.steve.macenski.com/'
+baseURL = 'https://stevemacenski.github.io/steve.macenski.com/'
 languageCode = 'en-us'
 title = 'Steve Macenski'
 theme = 'macenski'
