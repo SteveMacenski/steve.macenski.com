@@ -1,8 +1,7 @@
-baseURL = 'https://stevemacenski.github.io/steve.macenski.com/'
+baseURL = 'https://stevetest.macenski.com/'
 languageCode = 'en-us'
 title = 'Steve Macenski'
 theme = 'macenski'
-canonifyURLs = true
 
 [markup]
   [markup.goldmark]
