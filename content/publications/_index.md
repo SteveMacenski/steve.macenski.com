@@ -129,18 +129,3 @@ With N. Zhou, R. Shao
 **ROS Developer's Podcast #56** - "The ROS SLAM Toolbox by Steve Macenski" (2019) - Top 3 Listened Podcast 2019
 [theconstructsim.com](https://www.theconstructsim.com/the-ros-slam-toolbox-by-steve-macenski/)
 
-<div class="ascii-hr">— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —</div>
-
-## Press
-
-**Samsung Electronics Newsroom** - "Samsung Electronics Publishes Paper in Science Robotics on Robot Operating System 2" (2022)
-[news.samsung.com](https://news.samsung.com/global/samsung-electronics-publishes-paper-in-science-robotics-on-robot-operating-system-2)
-
-**Samsung Research Press** - "Engineering Lead at Samsung Research Wins Multiple Top Awards in Robotics Community" (2021)
-[research.samsung.com](https://research.samsung.com/news/Engineering-Lead-at-Samsung-Research-Wins-Multiple-Top-Awards-in-Robotics-Community)
-
-**National Geographic** - "What the new artificial intelligence initiative does-and doesn't-mean" (2019)
-[nationalgeographic.com](https://www.nationalgeographic.com/science/article/what-trump-american-artificial-intelligence-initiative-ai-does-doesnt-mean)
-
-**NASA Goddard View** - "From Midwest To Maryland: Students Take Annual Road Trip To Goddard Symposium" (2016)
-[nasa.gov](https://www.nasa.gov/sites/default/files/atoms/files/goddardviewv12i3online.pdf)

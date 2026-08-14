@@ -19,26 +19,22 @@ theme = 'macenski'
 
 [menu]
   [[menu.main]]
-    name = 'Projects'
-    url = '/projects/'
+    name = 'Recognitions'
+    url = '/awards/'
     weight = 1
   [[menu.main]]
     name = 'Publications'
     url = '/publications/'
     weight = 2
   [[menu.main]]
-    name = 'Recognitions'
-    url = '/awards/'
+    name = 'Projects'
+    url = '/projects/'
     weight = 3
-  [[menu.main]]
-    name = 'Robots'
-    url = '/robots-collage/'
-    weight = 4
   [[menu.main]]
     name = 'About'
     url = '/about/'
-    weight = 5
+    weight = 4
   [[menu.main]]
     name = 'Contact'
     url = '/contact/'
-    weight = 6
+    weight = 5

@@ -7,6 +7,8 @@ description: "About Steve Macenski"
 
 I straddle the line of a roboticist, technical leader, and chief of staff (executive 'random thing do-er'). I seek out hard problems and stumble into opportunities in all domains. I'm an independent, systems, and strategic thinker who's thinking about robotics and coalition building. All of that is to say, I'm just your friendly neighborhood navigator, missing a funny hat.
 
+Check out some of the <a href="/about/robots-collage/">robots in my fleet</a> that I work or worked with regularly.
+
 <div style="margin-top: 3rem;"></div>
 
 <div class="project-card">
