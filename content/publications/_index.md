@@ -57,10 +57,6 @@ IEEE/RSJ IROS | With A. Merzlyakov
 Journal of Open Source Software 6(61):2783 | With I. Jambrecic
 [joss.theoj.org](https://joss.theoj.org/papers/10.21105/joss.02783)
 
-**"The Past, Present, and Future of Navigation"** (2021)
-ROSCon Japan 2021 | Invited Headline Keynote
-[vimeo.com](https://vimeo.com/638041661/a5306a02ab)
-
 **"The Marathon 2: A Navigation System"** (2020)
 IEEE/RSJ IROS | With F. Martin, R. White, JG Clavero | Finalist RoboCup Best Paper Award
 [ieeexplore.ieee.org](https://ieeexplore.ieee.org/document/9341207)
@@ -72,10 +68,6 @@ International Journal of Advanced Robotic Systems 17(2) | With D. Tsai, M. Feinb
 **"Motion planning for dual-arm manipulation of elastic rods"** (2020)
 IEEE Robotics and Automation Letters 5(4):6065-6072 | With A. Sintov, A. Borum, T. Bretl
 [ieeexplore.ieee.org](https://ieeexplore.ieee.org/document/9146666)
-
-**"Navigation2: The Next Generation Navigation System"** (2020)
-ROS World 2020 | Invited Keynote
-[vimeo.com](https://vimeo.com/480604621)
 
 **"On Use of SLAM Toolbox"** (2019)
 ROSCon 2019
@@ -98,6 +90,8 @@ Society of Satellite Professionals International | With C. Lorenz, A. Bacula, A.
 
 **Fuse San Francisco** - "Open Source Platforms, Location, and the Acceleration of Physical AI" Panel (2026)
 
+**ROSCon Turkey 2026** - Invited Headlining Keynote (2026)
+
 **ICRA 2026 IFR/IEEE Finalist IERA Award Plenary Speaker** (2026)
 
 **iRoboCity Summer School 2026** - Invited Plenary: "ROS 2 and Nav2 Overview" (2026)
@@ -109,8 +103,14 @@ Society of Satellite Professionals International | With C. Lorenz, A. Bacula, A.
 
 **University of Illinois Aerospace Engineering** - "ROS 2 and Nav2 with Your Friendly Neighborhood Navigator" (2022)
 
+**ROSCon Japan 2021** - Invited Headline Keynote: "The Past, Present, and Future of Navigation" (2021)
+[vimeo.com](https://vimeo.com/638041661/a5306a02ab)
+
 **ROS Developer's Day 2021** - Invited Headline Keynote: "Practical Demonstration of New User-Requested Nav2 Features" (2021)
 [youtube.com](https://www.youtube.com/watch?v=BmyCi2lcdJY)
+
+**ROS World 2020** - Invited Keynote: "Navigation2: The Next Generation Navigation System" (2020)
+[vimeo.com](https://vimeo.com/480604621)
 
 **TechCrunch Sessions: Robotics and AI** - "Building Robotics Platforms" (2020)
 With C. Delaunay
