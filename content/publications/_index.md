@@ -9,6 +9,22 @@ description: "Academic publications, talks, keynotes, and press"
 IEEE Robotics and Automation Practice | With M. Booker, J. Wallace, T. Fischer
 [arxiv.org/abs/2401.13078](https://arxiv.org/abs/2401.13078)
 
+**"On Use Of Redbull: A Nav2 Feature Speedrun"** (2026)
+ROSCon 2026
+[vimeo.com](https://vimeo.com/showcase/12459077?video=1235288906)
+
+**"Nav2 Semantic & Ground Segmentation for Contextual Cross-Environment Navigation"** (2026)
+ROSCon 2026
+[vimeo.com](https://vimeo.com/showcase/12459077?video=1235288869)
+
+**"On Use of Nav2 Route Server"** (2025)
+ROSCon 2025
+[vimeo.com](https://vimeo.com/1136164030)
+
+**"On Use of Nav2 Docking"** (2024)
+ROSCon 2024
+[vimeo.com](https://vimeo.com/1024971348)
+
 **"From the desks of ROS maintainers: A survey of modern & capable mobile robotics algorithms in ROS 2"** (2023)
 Robotics and Autonomous Systems | With T. Moore, DV Lu, A. Merzlyakov, M. Ferguson
 [arxiv.org/pdf/2307.15236.pdf](https://arxiv.org/pdf/2307.15236.pdf)
@@ -21,9 +37,17 @@ Autonomous Robots | With S. Singh, F. Martin, J. Gines
 IEEE RAL | With A. Soragna, M. Carroll, Z. Ge
 [arxiv.org/abs/2305.09933](https://arxiv.org/abs/2305.09933)
 
+**"On Use of Nav2 MPPI Controller"** (2023)
+ROSCon 2023
+[vimeo.com](https://vimeo.com/showcase/10775523/video/879001391)
+
 **"Robot Operating System 2: Design, architecture, and uses in the wild"** (2022)
 Science Robotics vol. 7 | With T. Foote, B. Gerkey, C. Lalancette, W. Woodall
 [science.org](https://www.science.org/doi/10.1126/scirobotics.abm6074)
+
+**"On Use of Nav2 Smac Planners"** (2022)
+ROSCon 2022
+[vimeo.com](https://vimeo.com/showcase/9954564/video/767157646)
 
 **"A Comparison of Modern General-Purpose Visual SLAM Approaches"** (2021)
 IEEE/RSJ IROS | With A. Merzlyakov
@@ -45,6 +69,13 @@ International Journal of Advanced Robotic Systems 17(2) | With D. Tsai, M. Feinb
 IEEE Robotics and Automation Letters 5(4):6065-6072 | With A. Sintov, A. Borum, T. Bretl
 [ieeexplore.ieee.org](https://ieeexplore.ieee.org/document/9146666)
 
+**"On Use of SLAM Toolbox"** (2019)
+ROSCon 2019
+[vimeo.com](https://vimeo.com/378682207)
+
+**"On Use of the Spatio-Temporal Voxel Layer"** (2018)
+ROSCon 2018
+
 **"In-Situ Sample Collection Tool Design and Analysis"** (2017)
 55th AIAA Aerospace Sciences Meeting | With AW Case, PA DeTrempe
 [arc.aiaa.org](https://arc.aiaa.org/doi/abs/10.2514/6.2017-2020)
@@ -57,26 +88,18 @@ Society of Satellite Professionals International | With C. Lorenz, A. Bacula, A.
 
 ## Invited Talks & Keynotes
 
+**Fuse San Francisco** - "Open Source Platforms, Location, and the Acceleration of Physical AI" Panel (2026)
+
+**ROSCon Turkey 2026** - Invited Headlining Keynote (2026)
+
 **ICRA 2026 IFR/IEEE Finalist IERA Award Plenary Speaker** (2026)
 
 **iRoboCity Summer School 2026** - Invited Plenary: "ROS 2 and Nav2 Overview" (2026)
 
 **Oregon State University Rob599** - "Nav2 & ROS 2 Overview: Techniques and Applications" (2026)
 
-**ROSCon 2025** - "On Use of Nav2 Route Server" (2025)
-[vimeo.com](https://vimeo.com/1136164030)
-
-**ROSCon 2024** - "On Use of Nav2 Docking" (2024)
-[vimeo.com](https://vimeo.com/1024971348)
-
 **Actuate 2024** - "Mastering Nav2: Techniques and Applications Powering an Industry" (2024)
 [youtube.com](https://www.youtube.com/watch?v=eaHc72MgIDw)
-
-**ROSCon 2023** - "On Use of Nav2 MPPI Controller" (2023)
-[vimeo.com](https://vimeo.com/showcase/10775523/video/879001391)
-
-**ROSCon 2022** - "On Use of Nav2 Smac Planners" (2022)
-[vimeo.com](https://vimeo.com/showcase/9954564/video/767157646)
 
 **University of Illinois Aerospace Engineering** - "ROS 2 and Nav2 with Your Friendly Neighborhood Navigator" (2022)
 
@@ -98,11 +121,6 @@ With C. Delaunay
 
 **Autoware Academy Lecture 10** - "State Estimation for Localization" (2020)
 [youtube.com](https://www.youtube.com/watch?v=g2YURb-d9vY)
-
-**ROSCon 2019** - "On Use of SLAM Toolbox" (2019)
-[vimeo.com](https://vimeo.com/378682207)
-
-**ROSCon 2018** - "On Use of the Spatio-Temporal Voxel Layer" (2018)
 
 <div class="ascii-hr">— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —</div>
 
